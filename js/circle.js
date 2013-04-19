@@ -68,8 +68,3 @@
 			});
 
 
-			battery.addEventListener("levelchange", function(e) {
-				console.warn("Battery level change: ", info.level);
-				drawTimer();
-				window.location.reload();
-			}, false);
