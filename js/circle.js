@@ -3,7 +3,7 @@
 			var timerCurrent;
 			var timerFinish;
 			var timerSeconds;
-			var per = (info.level);
+			var per = (38);
 			
 			
 			function drawTimer(percent){
